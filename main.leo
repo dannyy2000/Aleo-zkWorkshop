@@ -12,6 +12,7 @@ program akinsanyadaniel.aleo {
         is_winner: bool,
     }
 
+
     // Returns a new bid.
     // - `bidder` : The address of the account that placed the bid.
     // - `amount` : The amount of the bid.
