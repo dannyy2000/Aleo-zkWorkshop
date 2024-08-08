@@ -1,18 +1,9 @@
 # Aleo-zkWorkshop
 
-first workshop....
-
-![leo deployment image](https://github.com/user-attachments/assets/5b9db994-d23a-4ae1-978d-b8c5c28efa93)
 
 
-
-
-![leo deployment](https://github.com/user-attachments/assets/810414a5-5869-446e-98ac-c2b498e92a2a)
-
-
-Second Workshop(Hello World)
+![aleo updated deployment image](https://github.com/user-attachments/assets/f79ea4f6-d677-4f31-9028-6e51b0a2e46f)
 
 
 
-![leo hello world deployment](https://github.com/user-attachments/assets/f1dbeefd-4975-42d7-b42d-2e2b2fa575ea)
-
+![aleo123 transaction image](https://github.com/user-attachments/assets/61620b10-def7-48b6-9ca8-36d888d3cdfc)
